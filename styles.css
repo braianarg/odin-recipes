@@ -1,0 +1,14 @@
+body {
+  padding: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+img {
+  height: auto;
+  width: 400px;
+}
+
+h1 {
+  background-color: bisque;
+  text-align: center;
+}
